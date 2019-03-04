@@ -1,0 +1,22 @@
+html, body {
+    display: flex;
+width: 100%;
+height: 100%;
+justify-content: center;
+align-items: center;
+}
+.bg-white {
+    background:#F3F3F3;
+}
+
+.gold {
+    color:red;
+}
+
+.silver {
+    color: rgb(49, 49, 49);
+}
+
+.bronce {
+    color: rgb(94, 94, 94);
+}
